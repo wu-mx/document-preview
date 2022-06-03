@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as r,a as n}from"./app.03e99220.js";const t='{"title":"Linux","description":"","frontmatter":{},"headers":[{"level":3,"title":"Clash｜Qv2ray","slug":"clash｜qv2ray"}],"relativePath":"guide/linux.md"}',l={},h=[n("",4)];var i=a(l,[["render",function(a,n,t,l,i,s){return e(),r("div",null,h)}]]);export{t as __pageData,i as default};

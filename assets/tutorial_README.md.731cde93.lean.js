@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as a,a as t}from"./app.03e99220.js";const o='{"title":"教程","description":"","frontmatter":{},"headers":[],"relativePath":"tutorial/README.md"}',n={},i=[t("",3)];var h=e(n,[["render",function(e,t,o,n,h,s){return r(),a("div",null,i)}]]);export{o as __pageData,h as default};

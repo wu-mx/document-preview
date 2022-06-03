@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as r,a as s}from"./app.03e99220.js";const o='{"title":"Openit","description":"","frontmatter":{},"headers":[],"relativePath":"guide/README.md"}',n={},a=[s("",9)];var i=t(n,[["render",function(t,s,o,n,i,g){return e(),r("div",null,a)}]]);export{o as __pageData,i as default};

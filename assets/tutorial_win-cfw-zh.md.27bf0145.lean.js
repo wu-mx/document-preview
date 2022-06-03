@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,a as r}from"./app.03e99220.js";const o='{"title":"如何汉化Clash for Windows","description":"","frontmatter":{},"headers":[],"relativePath":"tutorial/win-cfw-zh.md"}',t={},p=[r("",9)];var c=s(t,[["render",function(s,r,o,t,c,i){return a(),e("div",null,p)}]]);export{o as __pageData,c as default};

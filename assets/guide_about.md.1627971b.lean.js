@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r,a}from"./app.03e99220.js";const s='{"title":"关于","description":"","frontmatter":{},"headers":[],"relativePath":"guide/about.md"}',n={},o=[a("",4)];var l=e(n,[["render",function(e,a,s,n,l,i){return t(),r("div",null,o)}]]);export{s as __pageData,l as default};
